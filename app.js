@@ -5,7 +5,7 @@ import '@uirouter/angularjs';
 import './style.css';
 
 // Import your app functionality
-import './home'
+import './home'  
 
 // Create and bootstrap application
 const requires = [
